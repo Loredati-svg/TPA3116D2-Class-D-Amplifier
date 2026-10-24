@@ -12,7 +12,7 @@ Plug a phone or a PC into the USB-C port: the board shows up as a standard USB s
 
 <p align="center">
   <img width="500" alt="Top view" src="Images/3D_Top.png" />
-  <img width="500" alt="Bottom view" src="Images/3D_Bot.png" />
+  <img width="500" alt="Bottom view" src="Images/3D_bottom.png" />
 </p>
 
 
